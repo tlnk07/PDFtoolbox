@@ -1,0 +1,12 @@
+# PDF Toolbox Requirements
+# Core dependencies for PDF merging and splitting
+
+# GUI Framework
+customtkinter==5.2.2        # Modern, dark-theme GUI components
+
+# PDF Manipulation
+PyPDF2==3.0.1               # PDF merging (PdfMerger)
+pypdf==4.1.0                # PDF splitting (PdfReader, PdfWriter) - actively maintained fork
+
+# Image Support (required by customtkinter)
+Pillow==10.1.0              # Image handling for GUI elements
