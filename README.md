@@ -30,7 +30,7 @@ Take full control of your PDF workflow. Easily combine multiple files or restruc
 - Clone or download this repository.
 - Install the required packages using pip:
 ```bash
-pip install customtkinter pypdf PyPDF2
+pip install -r requirements.txt
 ```
 - Run the application:
 ```bash
