@@ -27,6 +27,7 @@ Take full control of your PDF workflow. Easily combine multiple files or restruc
 - PyPDF2
 - pypdf
 
+
 ## 🔧 Installation
 - Clone or download this repository.
 - Install the required packages using pip:
