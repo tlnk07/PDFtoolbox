@@ -4,6 +4,7 @@ Take full control of your PDF workflow. Easily combine multiple files or restruc
 
 ## ✨ Features
 
+
 ### Real-Time Transcription
 - **Merge PDFs** – Combine two or more PDF files into one document.
   - Drag-and-drop reordering of files.
