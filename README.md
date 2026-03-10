@@ -20,6 +20,7 @@ Take full control of your PDF workflow. Easily combine multiple files or restruc
 - **Multi-threaded** – PDF processing runs in the background, keeping the UI responsive.
 - **Cross-platform** – Works on Windows, macOS, and Linux (where Python and dependencies are installed).
 
+
 ## 📦 Requirements
 - Python 3.7 or higher
 - CustomTkinter
